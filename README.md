@@ -24,7 +24,7 @@ After building these features, I trained and evaluated multiple machine learning
 
 - K-Nearest Neighbors (KNN) (best k = 9)
 
-- Each model was tuned with GridSearchCV and evaluated using confusion matrices, precision, recall, and F1-score.
+Each model was tuned with GridSearchCV and evaluated using confusion matrices, precision, recall, and F1-score.
 
 You can access the `.ipynb` file by downloading `Click Fraud Detection.ipynb`.
 
