@@ -4,7 +4,7 @@
   * [Movie Recommender System](#movie-recommender-system)
 
 ## Click Fraud Detection:
-This project uses a large clickstream dataset (train.csv) where each record represents a click event with attributes such as IP, app, device, and timestamp. The main goal is to predict whether a click leads to an app download (is_attributed), which is a highly imbalanced binary classification problem.
+This project uses a large clickstream dataset ([Link](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data?select=test.csv)) where each record represents a click event with attributes such as IP, app, device, and timestamp. The main goal is to predict whether a click leads to an app download (is_attributed), which is a highly imbalanced binary classification problem.
 
 I performed several feature engineering steps, including:
 
